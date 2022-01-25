@@ -233,25 +233,26 @@ class _SourceDetailState extends State<SourceDetail> {
                       ),
                     ),
                     Container(
-                        decoration: const BoxDecoration(
-                            shape: BoxShape.rectangle,
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.grey,
-                                offset: Offset(0.0, 1.0), //(x,y)
-                                blurRadius: 6.0,
-                              ),
-                            ]),
-                        padding: const EdgeInsets.only(right: 10.0),
-                        width: MediaQuery.of(context).size.width * 2 / 5,
-                        height: 130,
-                        child: FadeInImage.assetNetwork(
-                            alignment: Alignment.topCenter,
-                            placeholder: 'assets/img/placeholder.jpg',
-                            image: articles[index].img,
-                            fit: BoxFit.fitHeight,
-                            width: double.maxFinite,
-                            height: MediaQuery.of(context).size.height * 1 / 3))
+                      decoration: const BoxDecoration(
+                          shape: BoxShape.rectangle,
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.grey,
+                              offset: Offset(0.0, 1.0), //(x,y)
+                              blurRadius: 6.0,
+                            ),
+                          ]),
+                      padding: const EdgeInsets.only(right: 10.0),
+                      width: MediaQuery.of(context).size.width * 2 / 5,
+                      height: 130,
+                      child: FadeInImage.assetNetwork(
+                          alignment: Alignment.topCenter,
+                          placeholder: 'assets/img/placeholder.jpg',
+                          image: articles[index].img,
+                          fit: BoxFit.fitHeight,
+                          width: double.maxFinite,
+                          height: MediaQuery.of(context).size.height * 1 / 3),
+                    )
                   ],
                 ),
               ),

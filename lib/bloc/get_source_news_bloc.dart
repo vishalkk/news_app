@@ -15,7 +15,6 @@ class GetSourceNewsBloc {
 
   // TODO: implement drain stream
 
-
   //void drainStream(){_subject.value = null;}
 
   @mustCallSuper

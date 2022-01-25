@@ -1,5 +1,3 @@
-import 'dart:io';
-import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:news_app/model/article_response.dart';
