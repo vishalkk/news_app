@@ -5,7 +5,7 @@ A news app made with flutter using newsapi.org free api
 
 
 ```markdown
-The following flutter concepts are covered in app
+The following flutter concepts are covered in  app
 ```
 
 1. State management using **Bloc and rxdart**
