@@ -27,8 +27,9 @@ The following flutter concepts are covered in app
 - Attractive UI
 - Clean code
 
-
 Video [Link](https://user-images.githubusercontent.com/36620044/152020300-0bd01ab2-343d-403a-bfdd-334a7388b3c4.mp4)
+
+<img src="/assets/img/inews1.jpg  width="300"">
 
 
 
