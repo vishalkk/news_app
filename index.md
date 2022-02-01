@@ -26,11 +26,14 @@ The following flutter concepts are covered in app
 - Search Bar
 - Attractive UI
 - Clean code
-[Link](https://newsapi.org/)
+
+
+Video link
+[Link](https://user-images.githubusercontent.com/36620044/152020300-0bd01ab2-343d-403a-bfdd-334a7388b3c4.mp4)
 
 
 
-https://user-images.githubusercontent.com/36620044/152020300-0bd01ab2-343d-403a-bfdd-334a7388b3c4.mp4
+
 
 
 
